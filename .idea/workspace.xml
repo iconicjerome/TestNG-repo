@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a066b008-08d4-4797-8aca-5a8f28722fe5" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parallel_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshot/newScreenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshot/testSimpleFormDemo_Pass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/screenshot/testSimpleModalDemo_Pass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_1_DatePickers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ConfigurationAnnotations_2_ListBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ParallelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/ParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/TestNG_Selenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DemoTestNG/waitStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DownloadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ModalClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SimpleFormDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/TestPOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/ConfigurationAnnotations_1_DatePickers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/ConfigurationAnnotations_2_ListBox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/Exercise1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/ParallelTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/ParameterizedTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/TestNG_Selenium.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/waitStatements$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/DemoTestNG/waitStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/DownloadFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/ModalClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/SimpleFormDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/TestPOM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_group.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_parameters.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a066b008-08d4-4797-8aca-5a8f28722fe5" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,6 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678739803399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1683479949109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683479949109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
