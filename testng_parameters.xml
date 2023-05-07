@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Parameters Suite">
+  <parameter name = "URL" value = "https://www.lambdatest.com/selenium-playground/"/>
+    <parameter name="Task" value="Download File"></parameter>
+  <test name="Pass Parameters ">
+      <parameter name="TestResult" value="Pass"/>
+      <classes>
+          <class name="DemoTestNG.ParameterizedTest"></class>
+      </classes>
+
+  </test>
+// these are tests below that can be run from the xml file
+    // using the details in the class..in this case the ParameterizedTest class
+<!--    <test name="Fail Parameters ">-->
+<!--        <parameter name="TestResult" value="Fail"/>-->
+<!--        <classes>-->
+<!--            <class name="DemoTestNG.ParameterizedTest"></class>-->
+<!--        </classes>-->
+
+<!--    </test>-->
+<!--    <test name="Skip Parameters ">-->
+<!--        <parameter name="TestResult" value="Skip"/>-->
+<!--        <classes>-->
+<!--            <class name="DemoTestNG.ParameterizedTest"></class>-->
+<!--        </classes>-->
+
+<!--    </test>-->
+
+
+
+
+
+</suite>
