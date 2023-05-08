@@ -58,7 +58,7 @@ public class TestPOM {
         downloadFile = new DownloadFile(driver);
         homePage.clickDownloadButton();
         downloadFile.sendText();
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMillis(3000));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMillis(7000));
         wait.until(ExpectedConditions.visibilityOfElementLocated(downloadFile.downloadLink));
         downloadFile.clickDownloadLink();
     }
